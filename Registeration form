@@ -1,0 +1,33 @@
+<Html>  
+<head>   
+<title>  
+Registration Page  
+</title>  
+</head>  
+<body bgcolor="Lightskyblue"> 
+  <h1> REGISTRATION  FORM</h1>
+<br>  
+<br>  
+<form>  
+  <label> Firstname </label>         
+<input type="text" name="firstname" size="15"/> <br> <br>     
+<label>    
+<label>   
+Phone :  
+</label>  
+<input type="text" name="country code"  value="+91" size="2"/>   
+<input type="text" name="phone" size="10"/> <br> <br>  
+ 
+Email:  
+<input type="email" id="email" name="email"/> <br>    
+<br>  
+Password:  
+<input type="Password" id="pass" name="pass"> <br>   
+<br> <br>  
+ City : 
+  <input type ="city" id ="city" name="city"><br>
+    <br>
+     <button type="submit">Submit</button>
+</form>  
+</body>  
+</html>
